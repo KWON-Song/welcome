@@ -1,0 +1,8 @@
+터미널
+$ ssh-keygen
+
+$ cd ~/.ssh
+$ ls -la
+
+$cd ~/.ssh
+$cat id_rsa.pub
